@@ -20,6 +20,7 @@ A robust workflow to analyze human genome data contaminated by mouse genome. Con
 
 + **HAMA blacklisting**
   + SNV calling should be preceded.
+  + [__Download HAMAlist__](https://github.com/ShockYoung/BestPractice_for_PDMseq/releases/download/HAMAlist/HAMAlist.gnomad.mouse.tsv)
   
 + **MouseContamEstimator**
   + Simple script for calculating estimated contamination level.
