@@ -5,6 +5,7 @@
 ## Introduction
 
 A robust workflow to analyze human genome data contaminated by mouse genome. ConcatRef, Disambiguate and XenofilteR are the best suggested filtering method for general purpose. Alternatively, Xenome, XenofilteR and ConcatRef are also recommended for SNV analysis. After applying filtering method, further filtering can be achieved by blacklisting using HAMA list. Estimation of contamination ratio can be used as an indicator of whether strict or lenient blacklisting should be applied.
+[![DOI](https://zenodo.org/badge/201309264.svg)](https://zenodo.org/badge/latestdoi/201309264)
 
 ## Description
 
